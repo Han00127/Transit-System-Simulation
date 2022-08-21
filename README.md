@@ -3,11 +3,11 @@ Software Development
 
 
 <p align="center">
-  <img align="center" src="./pictures/before_bus" width="400">
+  <img align="center" src="./pictures/before_bus.png" width="400">
 </p>
 
 <p align="center">
-  <img align="center" src="./pictures/running_bus" width="400">
+  <img align="center" src="./pictures/running_bus.png" width="400">
 </p>
 
 <p align="center">
